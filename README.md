@@ -60,9 +60,9 @@ class Skills extends SoftwareDeveloper {
 <div align="center">
   <h3 align="center">⚡Stats⚡</h3>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaprasad08&langs_count=8" width=380/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yogaprasad08&show_icons=true&theme=radical" width=400/>
-  <a href="https://git.io/streak-stats"><img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=yogaprasad08&theme=gruvbox-duo&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=400&card_height=200" alt="GitHub Streak"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaprasadk&langs_count=8" width=380/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yogaprasadk&show_icons=true&theme=radical" width=400/>
+  <a href="https://git.io/streak-stats"><img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=yogaprasadk&theme=gruvbox-duo&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=400&card_height=200" alt="GitHub Streak"/></a>
   <img width=400 src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=wtf"/>
 </div>
 <br/>
@@ -72,7 +72,7 @@ class Skills extends SoftwareDeveloper {
   <div>
     <h3 align="center"> 🏆 Github Trophies</h3>
     <br/>
- <img src="https://github-profile-trophy.vercel.app/?username=yogaprasad08&theme=merko&no-frame=true&no-bg=true&margin-w=4"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=yogaprasadk&theme=merko&no-frame=true&no-bg=true&margin-w=4"/>
   </div>
 </div>
 <br/>
@@ -82,7 +82,7 @@ class Skills extends SoftwareDeveloper {
   <div align="center">
   <h3 align="center">⚡ Github Activity Graph ⚡</h3>
   <br/>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogaprasad08&bg_color=18010e&color=ffffff&line=f0ebef&point=f4f401&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogaprasadk&bg_color=18010e&color=ffffff&line=f0ebef&point=f4f401&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 </div>
 </div>
 <br/>
