@@ -62,7 +62,8 @@ class Skills extends SoftwareDeveloper {
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaprasadk&langs_count=8" width=380/>
   <img src="https://github-readme-stats.vercel.app/api?username=yogaprasadk&show_icons=true&theme=radical" width=400/>
-  <a href="https://git.io/streak-stats"><img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=yogaprasadk&theme=gruvbox-duo&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=400&card_height=200" alt="GitHub Streak"/></a>
+<!--   <a href="https://git.io/streak-stats"><img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=yogaprasadk&theme=gruvbox-duo&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=400&card_height=200" alt="GitHub Streak"/></a> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yogaprasadk&theme=great-gatsby&hide_border=true&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=400&card_height=200" alt="GitHub Streak" /></a>
   <img width=400 src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=wtf"/>
 </div>
 <br/>
