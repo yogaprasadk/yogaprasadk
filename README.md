@@ -19,7 +19,7 @@ class Bio extends Aspiring SoftwareDeveloper {
 
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'Java'];
-  askMeAbout: ["web dev", "tech","Ai tools"],
+  askMeAbout: ["web dev"],
   technologies: {
         frontEnd: {
             js: ["react,next"],
