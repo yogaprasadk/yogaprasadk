@@ -122,7 +122,11 @@ class Skills extends SoftwareDeveloper {
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+%E2%9C%8C;Shoot+a+message+on+Linkedin+%3A);I+am+always+down+to+collab" alt="Typing SVG" /></a>
 </div>
 
-
+<br/>
+<div align="center">
+  :heart: Thanks for watching my profile! Have a nice day! :heart: <br/>
+  &copy; 2024 Yogaprasad M K
+</div>
 
 
 
