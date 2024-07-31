@@ -90,13 +90,10 @@ class Skills extends SoftwareDeveloper {
 <div align="center">
   <div align="center">
     <h3 align="center">Snake Animation 🐍</h3>
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/yogaprasadk/yogaprasadk/output/snake.svg" alt="Snake animation" width=2000/>
-
-###
   </div>
 
 </div>
