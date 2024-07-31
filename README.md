@@ -90,7 +90,7 @@ class Skills extends SoftwareDeveloper {
 <div align="center">
   <div align="center">
     <h3 align="center">Snake Animation 🐍</h3>
-  ###
+###
 
 <br clear="both">
 
