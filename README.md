@@ -86,8 +86,15 @@ class Skills extends SoftwareDeveloper {
 </div>
 </div>
 <br/>
-<hr/>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/yogaprasadk/yogaprasadk/output/snake.svg" alt="Snake animation" />
+
+###
+<hr/>
 <div>
   <div align="center">
   <h3 align="center">⚡ Wakatime Dashboard ⚡</h3>
