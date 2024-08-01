@@ -41,7 +41,7 @@ class Skills extends SoftwareDeveloper {
 
 <div align="center">
 <div align="center">
-<img width=130 src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogaprasadmk)"/>
+<a href="https://linkedin.com/in/yogaprasadmk"><img width=130 src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogaprasadmk)"/></a>
 <img width=200 src="https://visitcount.itsvg.in/api?id=yogaprasad08&icon=4&color=8)](https://visitcount.itsvg.in)"/>
   </div>
 </div>
