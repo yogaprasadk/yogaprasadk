@@ -31,7 +31,7 @@ class Skills extends SoftwareDeveloper {
         devOps: ["AWS"],
         databases: ["mongodb", "Sql"],
     },
-    currentProject: "I am developing thiefalarm detector using React js + tensorflow",
+    currentProject: "",
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
 
