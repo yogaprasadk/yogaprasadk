@@ -78,8 +78,8 @@ class Skills extends SoftwareDeveloper {
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaprasadk&layout=compact" width=380/>
   <img src="https://github-readme-stats.vercel.app/api?username=yogaprasadk&show_icons=true&theme=radical" width=400/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yogaprasadk&theme=gotham&hide_border=true" alt="GitHub Streak" width=500 /></a>
-  <img width=400 src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=wtf" width=500 height=200/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yogaprasadk&theme=gotham&hide_border=true" alt="GitHub Streak" width=400 /></a>
+  <img width=400 src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=wtf" height=200/>
 </div>
 <br/>
 <hr/>
