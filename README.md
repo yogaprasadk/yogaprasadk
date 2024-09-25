@@ -20,18 +20,15 @@ class Bio extends Aspiring SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'Java'];
   askMeAbout: ["web dev"],
-  technologies: {
+  web technologies: {
         frontEnd: {
-            js: ["react,next"],
-            css: ["Tailwind", "bootstrap"]
+            markup : ["HTML 5"]
+            js: ["react"],
+            css: ["Tailwind", "Bootstrap"]
         },
-        backEnd: {
-            js: ["node", "express"],
-        },
-        devOps: ["AWS"],
-        databases: ["mongodb", "Sql"],
+        databases: ["Sql"],
     },
-    currentProject: "",
+    currentProject: "E-commerce Project Using MERN",
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
 
