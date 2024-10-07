@@ -66,8 +66,7 @@ class Skills extends SoftwareDeveloper {
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
-</div>
-<hr/> -->
+</div> -->
 
 <div align="center">
   <h3 align="center">⚡Stats⚡</h3>
