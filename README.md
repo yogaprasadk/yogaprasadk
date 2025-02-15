@@ -49,7 +49,7 @@ class Skills extends SoftwareDeveloper {
   <h3 align="center">Remaining Days</h3>
  
   <a href="https://dday-widget.minung.dev">
-    <img src="https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2024-01-01&startDate=2024-02-15&theme=theme2" alt="dday-widget.svg" />
+    <img src="https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2026-01-01&startDate=2025-02-15&theme=theme2" alt="dday-widget.svg" />
   </a>
 </div>
 <br/>
