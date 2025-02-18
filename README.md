@@ -39,7 +39,7 @@ class Skills extends SoftwareDeveloper {
 <div align="center">
 <div align="center">
 <a href="https://linkedin.com/in/yogaprasadmk"><img width=130 src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogaprasadmk)"/></a>
-<img width=200 src="https://visitcount.itsvg.in/api?id=yogaprasadk&icon=4&color=8)](https://visitcount.itsvg.in)"/>
+<!-- <img width=200 src="https://visitcount.itsvg.in/api?id=yogaprasadk&icon=4&color=8)](https://visitcount.itsvg.in)"/> -->
   </div>
 </div>
 <br/>
@@ -81,12 +81,7 @@ class Skills extends SoftwareDeveloper {
     src="https://github-readme-stats.vercel.app/api?username=yogaprasadk&show_icons=true&theme=radical"
     width="400"
   />
-  <a href="https://git.io/streak-stats"
-    ><img
-      src="https://streak-stats.demolab.com?user=yogaprasadk&theme=gotham&hide_border=true"
-      alt="GitHub Streak"
-      width="400"
-  /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yogaprasadk" alt="GitHub Streak"  width="400" /></a>
   <img
     width="400"
     src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=wtf"
