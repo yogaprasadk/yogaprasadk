@@ -1,3 +1,5 @@
+
+![gitartwork](gitartwork.svg)
 <div align ="center">
 <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png"/>
 </div>
