@@ -153,6 +153,14 @@ class Skills extends SoftwareDeveloper {
 <hr />
 
 <div align="center">
+    <h3 align="center"> ⚡ Open Source Contribution Badges ⚡</h3>
+    <br/>
+  <h4 align="center">⚡ Apertre 2.0 ⚡</h4>
+<img src="https://holopin.me/yogaprasadk" />
+  
+</div>
+
+<div align="center">
   <h3 align="center">✍️Random Dev Quote</h3>
   <br />
   <img
