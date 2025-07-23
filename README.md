@@ -85,7 +85,6 @@ class Skills extends SoftwareDeveloper {
     width="400"
   />
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yogaprasadk" alt="GitHub Streak"  width="400" /></a>
-<img src="https://streak-stats.demolab.com?user=yogaprasadk&theme=tokyonight&hide_border=true"/>
   <img
     width="400"
     src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=wtf"
