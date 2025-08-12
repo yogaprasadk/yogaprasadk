@@ -23,14 +23,15 @@ class Bio extends Aspiring SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['Java'];
-  askMeAbout: ["web dev"],
+  languages  = ['Java','JS'];
+  askMeAbout: ["Full stack web dev"],
   web technologies: {
         frontEnd: {
             markup : ["HTML 5"]
             js: ["react"],
+            css: ['Tailwind'];
         },
-        databases: ["Sql"],
+        databases: ["Oracle SQL"],
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
@@ -155,26 +156,10 @@ class Skills extends SoftwareDeveloper {
 <hr />
 
 <div align="center">
-    <h3 align="center"> ⚡ Open Source Contribution Badges ⚡</h3>
-  <h4 align="center">⚡ Apertre 2.0 ⚡</h4>
+    <h2 align="center"> ⚡ Open Source Contribution Badges ⚡</h2>
+  <h3 align="center">⚡ Apertre 2.0 ⚡</h3>
 <img src="https://holopin.me/yogaprasadk" />
   
-  <h4 align="center">🪶GSSOC'24(Girlscript Summer of Code)🪶</h4>
-  <details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-</a>
-</div>
-  </details>
 </div>
 <br />
 <hr />
@@ -218,6 +203,6 @@ class Skills extends SoftwareDeveloper {
 <br />
 
 <div align="center">
-  :heart: Thanks for watching my profile! Have a nice day! :heart: <br />
+  :heart: Thanks for Visiting my profile! Have a nice day! :heart: <br />
   &copy; 2025 Yogaprasad M K
 </div>
