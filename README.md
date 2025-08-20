@@ -47,7 +47,7 @@ class Skills extends SoftwareDeveloper {
   </div>
 </div>
 <br/>
-<hr/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
   <h3 align="center">Remaining Days</h3>
@@ -57,7 +57,7 @@ class Skills extends SoftwareDeveloper {
   </a>
 </div>
 <br/>
-<hr/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
  <!-- ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
@@ -76,8 +76,7 @@ class Skills extends SoftwareDeveloper {
 <div align="center">
   <h3 align="center">⚡Stats⚡</h3>
   <br />
-
-  <img
+  <!-- <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaprasadk&layout=compact"
     width="380"
   />
@@ -90,10 +89,16 @@ class Skills extends SoftwareDeveloper {
     width="400"
     src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=wtf"
     height="200"
-  />
+  /> -->
+
+ | <img  src="https://github-readme-stats.vercel.app/api?username=yogaprasadk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="yogaprasadk" width="400px"/> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=yogaprasadk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="yogaprasadk" width="400px"/> |
+| -- |
+    
+| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaprasadk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="UmangDalvadi" width="292px"/> <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="150"> |
+| -- |
 </div>
 <br />
-<hr />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
   <div>
@@ -105,7 +110,7 @@ class Skills extends SoftwareDeveloper {
   </div>
 </div>
 <br />
-<hr />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
   <div align="center">
@@ -117,7 +122,7 @@ class Skills extends SoftwareDeveloper {
   </div>
 </div>
 <br />
-<hr />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
   <div align="center">
@@ -130,7 +135,7 @@ class Skills extends SoftwareDeveloper {
     />
   </div>
 </div>
-<hr />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
   <div align="center">
     <h3 align="center">Snake Animation 🐍</h3>
@@ -141,7 +146,7 @@ class Skills extends SoftwareDeveloper {
     />
   </div>
 </div>
-<hr />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div>
   <div align="center">
     <h3 align="center">⚡ Wakatime Dashboard ⚡</h3>
@@ -153,7 +158,7 @@ class Skills extends SoftwareDeveloper {
   </div>
 </div>
 <br />
-<hr />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
     <h2 align="center"> ⚡ Open Source Contribution Badges ⚡</h2>
@@ -162,7 +167,7 @@ class Skills extends SoftwareDeveloper {
   
 </div>
 <br />
-<hr />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
   <h3 align="center">✍️Random Dev Quote</h3>
@@ -171,14 +176,14 @@ class Skills extends SoftwareDeveloper {
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes"
   />
 </div>
-<hr />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
   <h3 align="center">😂Random Dev Jokes</h3>
   <br />
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="600" />
 </div>
-<hr />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
   <h3 align="center">Support:</h3>
